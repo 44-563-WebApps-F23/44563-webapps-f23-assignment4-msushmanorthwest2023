@@ -27,3 +27,14 @@
     color: chocolate;
 
 }
+table{
+  font-size: medium;
+  border: 5px black  solid;
+  color: rgb(8, 235, 133);
+  text-align: center;
+  padding: 12px;
+  margin: 3px;
+}
+tr:nth-child(odd){
+  background-color: violet;
+}
