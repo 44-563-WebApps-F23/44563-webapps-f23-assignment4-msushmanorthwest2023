@@ -38,7 +38,51 @@ table{
 tr:nth-child(odd){
   background-color: violet;
 }
-.name:hover{
-    border:4px solid;
-    text-shadow: 2px 2px 5px  black;
+.HILDA:hover{
+
+  text-shadow:6px 7px 5px rgb(180,63,63);
+
+  border:solid 2px orange
+
 }
+
+.MRS.SOLNESS:hover{
+
+text-shadow:6px 7px 5px rgb(180,63,63);
+
+  border:solid 2px orange
+
+}
+
+.navbar{
+
+  text-align: center;
+
+  background-color:rgb(250,2,220);
+
+  padding: 10px;
+
+  width:50%;
+
+}
+
+.navbar a{
+
+  color:black;
+
+  text-decoration: underline;
+
+  display: block;
+
+  padding: 5px;
+
+}
+
+.navbar a:hover{
+
+  background-color: rgb(218,204,186);
+
+  color:rgb(180,63,63);
+
+}
+
