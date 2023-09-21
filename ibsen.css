@@ -1,0 +1,29 @@
+.speech{
+    font-family: Times New Roman, serif;
+  font-size: 14px; 
+  color: black;
+  background-color: lightgray; 
+  transition: background-color 0.3s, color 0.3s;
+
+}
+
+.direction{
+    font-family: Times New Roman, serif; 
+  font-size: 14px; 
+  color: black;
+  background-color: lightgray; 
+  transition: background-color 0.3s, color 0.3s;
+
+}
+.direction:hover{
+    background-color: greenyellow;
+    color: yellow;
+
+}
+.HILDA{
+    color: brown;
+}
+.MRS.SOLNESS{
+    color: chocolate;
+
+}
